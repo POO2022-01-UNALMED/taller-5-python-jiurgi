@@ -38,3 +38,4 @@ class Reptil(Animal):
     def setLargoCola(self, largoCola):
         self._largoCola = largoCola
     def getLargoCola(self):
+        return self._largoCola
